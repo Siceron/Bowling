@@ -1,0 +1,11 @@
+**/.settings
+**/target
+**/out
+**/.project
+**/.classpath
+**/generated/**
+/src/generated/*
+/.project
+/.settings
+/.idea/
+*.iml
